@@ -9,5 +9,7 @@ This was mainly created as a small project because I was bored.
 
 ![Screenshot](https://raw.github.com/ebbes/GameOfLife/master/GameOfLife.png)
 
+Note: No comments included because I was too lazy. However, I think this code is pretty easy to understand ;-)
+
 This has no explicit license, as long as you do not sell my code, I am totally fine.
 Have fun!
